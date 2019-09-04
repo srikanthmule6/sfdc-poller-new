@@ -1,0 +1,10 @@
+{
+  "source": "Duo GPL API",
+  "time": "2019-08-06T00:00:00Z",
+  "status": "ok",
+  "statusCode": "200",
+  "message": "Account successfully created.",
+  "duoAccountid": "DAC8CLBNBLLF3E40WU5F",
+  "aKey": "DAC8CLBNBLLF3E40WU5F",
+  "dealId": "DEAL123"
+}
